@@ -1,0 +1,14 @@
+Questions:
+1.Maximum Elements in Array.
+2.Valid Palindrome.
+3.Duplicats in an Array.
+4.Moves Zeros to Left.
+5.Majority Elements.
+6.Three Sums Problem.
+7.Pascals Triangle.
+8.Best Time to Buy and Sell Stocks.
+9.Painters Problem 
+
+Naming Conventions:
+You have to submit your solutions by the following convention:-
+Name_QuestionNo
