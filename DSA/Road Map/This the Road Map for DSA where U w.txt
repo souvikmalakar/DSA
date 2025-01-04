@@ -1,0 +1,36 @@
+This the Road Map for DSA where U will get the Proper FLOW of DSA Which Will Help U for Efective lerning of DSA,
+As I will Code In C++ So Whatever Collection, or Containers i will Use U can Use The Alternative For your language 
+which u are using.
+
+
+Topics                                      Algorithms
+*Arrays/Matrix                              *Arrays
+*String                                       #Two Pointers
+*Stack                                        #Sliding Window Patern
+*Heap                                        *String 
+*Linked List                                  #String Manipulation
+*Tree                                       *Bit Manipulation
+*Graphs                                      *Recursion
+*Trie                                           #Knapsack,Unbounded Knapsack,Greddy Algorithms,Back TrackingH
+                                               (All this algorithm can be applicable with data structures
+                                                like Arrays,Strings,Tree,Graphs)
+                                            *Dynamic Programming
+                                             #LCS Pattern
+                                             #Matrix Chain Multiplication
+                                             #Knapsack/Unbounded Knapsack
+                                            (Applicable for Tress,Grpah,Arrays,String)
+                                            *Trees
+                                             #BFS
+                                             #DFS
+                                            *Graph
+                                             # Recursion
+                                            *Linked List
+                                             # Tree node Method
+                                            *Heap
+                                             #Histogram
+                                            *Stack
+                                             #NGR,NSL,NGL,NSR
+
+We will Cover One by One Combining Data Structures and algorithm ,I will Add Further Things If Required 
+To Make it more simplify
+                                            
