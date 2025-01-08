@@ -1,0 +1,43 @@
+Three sum problem [4,5,6,8,8,8,4,2]
+In this question we have an array of n integer,where we need find the target given with the sum of three no from the array and we need to find all the possibilities
+
+
+
+
+vector<vector<int>>Threesum(vector<int>nums,n,sum){
+vector<vector<int>>list;
+
+nums.sort();
+int first=i+1;
+int last=n-1;
+for(int i=0;i<n;i++){
+ vector<int>ans;
+if(nums[i]==nums[i+1]){Continue;}
+
+while(first>last){
+    if(nums[i]+nums[first]+nums[last]==0){
+     ans.push_back(nums[i],[first],[last]);
+     list.push_back(ans);
+  while(first>last &&nums[first]==nums[first+1] ){
+     first++;
+}
+   first++; 
+ while(first>last &&nums[last]==nums[last-1] ){
+     last--;
+}
+last--;
+}
+else if(nums[i]+nums[first]+nums[last]>0){
+     last--
+}
+else if(nums[i]+nums[first]+nums[last]<0){
+     first++
+
+
+}
+
+}
+}
+
+
+}
